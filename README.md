@@ -36,27 +36,39 @@ e criamos nossa Hamburgueria nomeada "Lanchonete Garfield".
     
 * Criação da Logo
   * Inspirações
-    Nos inspiramos em redes de fast food famosas como: MC Donalds, Burguer King, Popeyes e hamburguerias artesanais como Patties e FAT COW 
+    * Nos inspiramos em redes de fast food famosas como: MC Donalds, Burguer King, Popeyes e hamburguerias artesanais como Patties e FAT COW 
   * desenvolvimento
-    Durante o processo de criação usamos o personagem "Garfield" como nosso mascote e fomos realizamos vários testes, desde posições diferente do mascote, até cores e conseguimos atingir
+    * Durante o processo de criação usamos o personagem "Garfield" como nosso mascote e fomos realizamos vários testes, desde posições diferente do mascote, até cores e conseguimos atingir
      o resultado que mais nos agradou, que seria esse exibido na imagem abaixo:  
 
   
 * Escolha das cores e Design
   * idéias/processo de Criação de Layout
     Nossa idéia era criar um ambiente de fácil compreenssão e simples de ser usado, garantindo o conforto do usuário. Dividimos o site em 3 partes:
-    1) apresentação da lanchonete
-       * utilizamos 
-    3) cardápio
-    4) localização e contatos
-    5) Chatbot
+    1) Apresentação da lanchonete
+       * Utilizamos a primeira parte do site para nos apresentar e falarmos um pouco sobre nós
+    2) Cardápio
+       * Na segunda parte apresentamos o cartápio com imagem e valores de nossos produtos
+    4) Localização e contatos
+       * na terceira parte mostramos informações de contato e nossa localização (fictícia)
+    6) Chatbot
       * desenvolvemos um pequeno chatbot, localizado no canto inferior direito para responder perguntas simples e agilizar o processo de busca de informações
 
 * Desenvolvimento de Software
   * coleta de artefatos
+    * artefatos de Design
+    * artefatos de manutenção e suporte
+    * artefatos de implementação
+    * artefatos de testes
   * metodologia
+    * Scrum
+      * Decidimos utilizar a metodologia Scrum, como é uma métodologia ágil, ela permitia que fossem feitas reuniões para discutir os próximos passos do projeto 
   * desenvolvimento
+    * decidimos utilizar linguangens como (HTLM 5, CSS 3, Javascript) e frameworks como react e nodeJS
   * reuniões/planejamentos
+    * Realizavamos reuniões regurlarmente para discutirmos o futuro do projeto em vários aspectos como : desenvolvimento de sofware, design , documentação
 
   * Conclusões
     * Considerações Finais
+      * Foi uma experiência muito positiva para todos nós, pois, conseguimos por em prática toda nossa criatividade e conhecimento sobre tecnologia e ter a experiência
+      de desenvolver um site/software do zero, além de poder conhecer diversas áreas como design, logistica e TI 
