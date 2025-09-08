@@ -11,6 +11,7 @@ e criamos nossa Hamburgueria nomeada "Lanchonete Garfield".
     
 * Criação da Logo
   * Inspirações
+    Nos inspiramos em redes de fast food famosas como Burguer King
   * desenvolvimento  
 
   
